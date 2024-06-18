@@ -1,4 +1,4 @@
 - Hey, I’m Max - or @maxdenuevo for my internet friends
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning front-end development. React specifically. 
 - I speak Eng and Spanish fluently
 - Pronouns: "he/him/his" or in "ÉL" my native spanish
