@@ -1,31 +1,28 @@
-banner_image: https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100
-
-# Information about You
+```yaml
 name: Max Ihnen
 located_in: Santiago, Chile
 current_job: Full Stack Developer
 education:
-  - Self-Taught Developer and Designer
-  - Bachelor's in Humanities (Optional: You can mention the specific field)
-company: Uber (Optional: If you're not currently employed at Uber, remove this line)
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Electronics and Communication",
+  ]
+company: Soulber
 
-# Areas of Expertise
 fields_of_interests:
-  - Web Development
-  - UI/UX Design
-
-# Technical Skills
+  [
+    "Web Development",
+    "UI/UX",
+  ]
 technical_background:
-  - Full Stack Developer
+  [
+    "Full Stack Developer"
+  ]
+  
+currently_learning: ["PostgreSQL and React Native"]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
-# Currently Learning
-currently_learning:
-  - Docker
-  - React Native
 
-# Hobbies (Optional)
-hobbies:
-  - Cinema
-  - Food
-  - Art
-  - Comedy
+
+# Hi there! Reach out if you want elegant beautiful and solid databases. 👋
+# Max
