@@ -5,9 +5,9 @@ current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor's in Electronics and Communication",
+    "Bachelor's in Humanities",
   ]
-company: Soulber
+company: Uber
 
 fields_of_interests:
   [
@@ -20,7 +20,7 @@ technical_background:
   ]
   
 currently_learning: ["PostgreSQL and React Native"]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Movies", "Cooking", "Hiking",]
 
 
 
