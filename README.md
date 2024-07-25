@@ -4,12 +4,12 @@
 
 
 ### Skills
-[![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-3169E8?style=flat-square&logo=sql)](https://en.wikipedia.org/wiki/SQL)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-43893C?style=flat-square&logo=node.js)](https://nodejs.org/)
- [![AWS](https://img.shields.io/badge/AWS-F08000?style=flat-square&logo=amazonaws)](https://aws.amazon.com/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-fff?style=for-the-badge&logo=postgresql)](https://en.wikipedia.org/wiki/SQL)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20C997?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-C02916?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![AWS](https://img.shields.io/badge/AWS-1779D1?style=for-the-badge&logo=aws)](https://aws.amazon.com/)
 
 
 ### Contact
