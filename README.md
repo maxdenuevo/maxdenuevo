@@ -1,6 +1,6 @@
-# **Full Stack Developer and Problem-solver.** 
+# **Problem-solver and Full Stack Developer.** 
 
-'m a passionate web developer building dynamic applications. With expertise in JavaScript, Python, and SQL, I create efficient solutions. My background in optimizing databases and my experience as a Program Manager at Uber bring a unique perspective to problem-solving. 
+I'm a passionate web developer building dynamic applications. With expertise in JavaScript, Python, and SQL, I create efficient solutions. My background in optimizing databases and my experience as a Program Manager at Uber bring a unique perspective to problem-solving. 
 
 
 ### Skills
