@@ -11,16 +11,11 @@ I'm a passionate web developer building dynamic applications. With expertise in 
 [![Node.js](https://img.shields.io/badge/Node.js-C02916?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![AWS](https://img.shields.io/badge/AWS-1779D1?style=for-the-badge&logo=aws)](https://aws.amazon.com/)
 
-
-### Contact
-* [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=social&logo=linkedin)](linkedin.com/in/ihnen)
-* [Max Ihnen Website](maxdenuevo.com)
-
 ### Projects
 
-#### Project 1: To-Do List App
+#### Project 1: Pawpals App
 
-A simple yet powerful to-do list application built with React and Redux. Users can create, edit, and mark tasks as completed. The app utilizes local storage to persist data.
+A simple yet powerful to-do instagram clone built with React and Vercel. Users can login, post and comment. The app utilizes local storage to persist data.
 
-- Technologies: React, Redux, JavaScript (ES6+)
+- Technologies: React, Python, JavaScript (ES6+), SQL, Vercel
 - Link to Repository: 
