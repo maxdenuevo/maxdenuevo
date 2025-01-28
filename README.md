@@ -1,8 +1,8 @@
-# **Software Developer & Problem-solver**
+# **Software Developer & Product**
 
-I'm a developer focused on building efficient backend solutions and data processing applications. With expertise in Python and SQL, I create robust systems that solve complex problems. My background in program management at tech companies brings a unique perspective to software development, particularly in cross-functional collaboration and systems thinking.
+My background in program management at tech companies brings a unique perspective to software development, particularly in cross-functional collaboration and systems thinking. I'm a developer focused on building efficient backend solutions and data processing applications. With expertise in Python and SQL, I create robust systems that solve complex problems. 
 
-<h2 align="left">🛠️ Skills and tools</h2>
+<h2 align="left">Skills and tools</h2>
 
 ### 
 
@@ -37,24 +37,18 @@ I'm a developer focused on building efficient backend solutions and data process
 ### 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxdenuevo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-   <img width="12" />
-  <img src="https://streak-stats.demolab.com?user=maxdenuevo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxiware&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <br>
 
-<h2 align="left">🌱 Current Focus</h2>
+<h2 align="left">Current Focus</h2>
 
 ### 
-I'm expanding my expertise in:
-- Cloud Computing and AWS
-- Object-Oriented Programming in Python
-- Linux env
+Send book recommendations on:
 
-
-<h2 align="left">💼 Open for Collaboration</h2>
-
-### 
-
-I'm always excited to work on innovative projects. If you have any ideas or want to collaborate, feel free to reach out!
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+</div>
