@@ -37,7 +37,7 @@ My background in program management at tech companies brings a unique perspectiv
 ### 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxiware&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxdenuevo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <br>
