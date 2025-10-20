@@ -1,54 +1,25 @@
-# **Software Developer & Product**
+# Max Ihnen
 
-My background in program management at tech companies brings a unique perspective to software development, particularly in cross-functional collaboration and systems thinking. I'm a developer focused on building efficient backend solutions and data processing applications. With expertise in Python and SQL, I create robust systems that solve complex problems. 
+**Technical Program Manager | Digital Transformation | Full Stack Background**
 
-<h2 align="left">Skills and tools</h2>
+I bridge technology and business strategy. With experience scaling operations at Uber and Cornershop, I specialize in managing complex projects across multiple systems, stakeholders, and technical constraints. I understand both how to build products and how to deliver them at scale.
 
-### 
+I'm looking for Technical PM, Product, or Digital Transformation roles at ambitious companies in fintech, proptech, and logistics.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-</div>
+---
 
-<br>
+## What I Do
 
-<h2 align="left">📊 GitHub Stats</h2>
+- **End-to-end project execution**: From concept through implementation, across technical and non-technical teams
+- **Stakeholder orchestration**: Align product, engineering, legal, and operations around shared goals
+- **Systems thinking**: Design solutions that account for legacy constraints, multiple integrations, and organizational complexity
+- **Technical credibility**: Understand architecture, databases, APIs, and trade-offs—I can speak with engineers and CFOs in their language
 
-### 
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxdenuevo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## Technical Skills
 
-<br>
-
-<h2 align="left">Current Focus</h2>
-
-### 
-Send book recommendations on:
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-</div>
+**Languages & Frameworks**: Python (Flask, FastAPI), JavaScript (React), SQL  
+**Databases & Infrastructure**: PostgreSQL, MySQL, AWS (EC2, S3), Git  
+**Methodologies**: REST APIs, Agile/Scrum, JWT Auth, testing frameworks  
+**Professional**: Cross-functional leadership, data analysis, process automation, bilingual (EN/ES)
