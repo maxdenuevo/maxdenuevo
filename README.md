@@ -20,6 +20,4 @@ I'm looking for Technical PM, Product, or Digital Transformation roles at ambiti
 ## Technical Skills
 
 **Languages & Frameworks**: Python (Flask, FastAPI), JavaScript (React), SQL  
-**Databases & Infrastructure**: PostgreSQL, MySQL, AWS (EC2, S3), Git  
-**Methodologies**: REST APIs, Agile/Scrum, JWT Auth, testing frameworks  
 **Professional**: Cross-functional leadership, data analysis, process automation, bilingual (EN/ES)
